@@ -6,6 +6,6 @@ The data was obtained through public record request from the [Richmond Rent Prog
 ### 2. The California Rent Relief Program application data of the city of Richmond.
 This part of data was collected from the [California Rent Relief Program Dashboard](https://housing.ca.gov/covid_rr/dashboard.html) on the website of Housing Is Key, a rent assistance program established by the State of California. The dashboard covers data including complete household applications, total household served, average assistance, demographcis of applicants, and total funds paid by the program. 
 ## Data Cleaning
-![OriginalData1](/assets/OriginalData1.png)
-![OriginalData2](/assets/OriginalData2.png)
+![OriginalData1](/assets/OriginalData1.jpg)
+![OriginalData2](/assets/OriginalData2.jpg)
 Above are the original format of the two datasets, therefore I manually put the numbers I need into a google spreadsheet. 
