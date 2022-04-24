@@ -1,2 +1,3 @@
 # J296FinalProject
 ## Data Source
+In this project, I'm using the monthly eviction data of the city of Richmond. The data was obtained through public record request from the [Richmond Rent Program](http://www.ci.richmond.ca.us/3364/Richmond-Rent-Program). The data include months from July 2020 to February 2022 in the form of two pdf spreadsheet. I also conducted two interviews with [Nicolas Traylor](https://www.ci.richmond.ca.us/directory.aspx?EID=1342), the Executive Director of the Richmond Rent Program, and [Cynthia Shaw](https://www.ci.richmond.ca.us/directory.aspx?EID=1386), the program's Assistant Administrative Analyst, to explain how they collected the data and what each row and column of in the spreadsheet represent, in case of any confusion. 
