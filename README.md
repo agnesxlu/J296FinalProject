@@ -8,4 +8,7 @@ This part of data was collected from the [California Rent Relief Program Dashboa
 ## Data Cleaning
 ![OriginalData1](/OriginalData1.jpg)
 ![OriginalData2](/OriginalData2.jpg)
-Above are the original format of the two datasets, therefore I manually put the numbers I need into a google spreadsheet. 
+Above are the original formats of the two datasets, therefore I manually put the numbers I need into a google spreadsheet. 
+### Dataset 1: monthly eviction data
+
+### Dataset 2: Rent Relief Program application data
