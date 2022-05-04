@@ -31,6 +31,23 @@ In Richmond, a city only 20% Black, the pandemic has made it particularly hard f
 
 For those unable to pay rent after April 1, Traylor said the Rent Program provides a mediation for landlords and tenants to come up with an update of each other's situation and set up possible payment plans. 
 
+But the end of rent relief does not mean the end of all sources of financial assistance. 
+
+Luckily in Richmond, for both landlords and tenants, a new way of financial aid can also give a helping hand. The [Richmond Rapid Response Fund](https://www.richmondresponsefund.org/), also known as R3F, is a city-level funding. 
+
+R3F is joined by parties both from the Richmond community and local government, including the City of Richmond, The RYSE Center, The Ed Fund, Richmond Promise, and Building Blocks for Kids.
+
+According to Vizinau from CHDC, the successful rate of applications for R3F is as high as 98%. Unlike the state rent relief program which takes a long time to process and given based on area median income (AM1), R3F has no particular income guideline and is a self-attested fund. 
+
+Since the end of moratorium by the end of September 2021, there has been slight spike in surge of total filings, according to the data obtained from the Rent Program through public record request. Through the middle of 2020 to February 2022, nonpayment of rent still accounts for the biggest cause of fillings. 
+
+![Eviction data in Richmond](/evictiondata.png)
+
+Traylor expected that with the rent relief program expired, it is more likely to see California's covid state of emergency going away. That said, Traylor also pointed out it could result in the City of Richmond Urgency Ordinance, also known as the city moratorium, going away as well, approximately 60 days after the state of emergency lifts. Right now, Traylor and his team are preparing for a significant uptick of eviction filings in Richmond. 
+
+" I think if the virus infection rates continue to decrease, the various moratoria will likely go away," said Traylor, "And with that, we're expecting a significant increase and notices being served on tenants."
+
+
 ## Data Diary
 ### Data Source
 In this project, I'm using **two sources of data**.
