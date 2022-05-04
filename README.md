@@ -1,8 +1,36 @@
 # Rent relief application ended for Richmond tenants: what's next?
-**By Xueer Lu** 
+_The COVID-19 Rent Relief Program applications in California ended on March 31, meaning that the Richmond tenants who struggle to pay rent are again facing the risk of getting evicted. What happened since then and what will happen? Read full story here:_ </br>
 
----
-800-1000 words of story text here
+#### By Xueer Lu
+
+March 31 marked the end of COVID-19 Rent Relief Program applications in California, shoving the Richmond tenants who struggle to pay rent back into the risk of eviction. 
+
+The eviction moratorium in California, which was designed to protect renters who failed to pay rent from eviction, has expired by the end of last September. But the state's rent relief program, which operated between March 2021 through March 2022, continued to shield tenants from eviction, helping 2,358 households and gave each household an average assistance of $11,628.
+
+For those who have applied for it and received funds, the rent relief is a life-changer. Charlene Cornelious, a long-time Richmond resident, is one of them.
+
+As someone who has been struggling with the Crohn’s disease, she was unable to work and her only source of income is $368 per month from California’s State Disability Insurance program, less than half of her monthly rent of $960. 
+
+Cornelious submitted her application last August and received the approval at the beginning of last October. But the approval was only the start of a five-month wait for the money to actually arrive.
+
+"It was a long wait, a stressful wait," said Cornelious, whose apartment has received the $4,000 fund from the rent relief program in March. 
+
+Now that Cornelious is physically feeling better from her Crohn's disease, she is back to work as a certified nursing assistant at Vale Healthcare Center in San Pablo. With the fund she received from the rent relief program and her job, she is gradually getting back on her feet. 
+
+Katrina Vizinau, senior housing counselor at the [Community Housing Development Corporation](https://communityhdc.org/), a non-profit based in the bay area that helped tenants with their applications, thinks that the rent relief program has been very helpful for people who didn't have other financial support and the program was their only support to find some financial relief and maintain their house and stability. 
+
+However, since the applications for the rent relief also ended, what will happen to the Richmond tenants who have trouble paying rent? 
+
+A [bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB2179) passed on the same day as the rent relief application portal closed. The bill, authored by District 14 Assemblymember Tim Grayson and District 15 Assemblymember Buffy Wicks, moved the date when landlords can start eviction proceedings from April 1 to July 1, giving a grace period specifically for tenants who have applied for the rent relief but are still waiting for the fund. 
+
+But this is only a temporary breathing time for those waiting for the fund. "For the tenants unable to pay rent after this new law passed, I think that they're in a completely different boat, definitely more vulnerable now," said Nicolas Traylor, executive director of the [Richmond Rent Program](http://www.ci.richmond.ca.us/3364/Richmond-Rent-Program). 
+
+In Richmond, a city only 20% Black, the pandemic has made it particularly hard for the Black community, as reflected in the racial composition of the rent relief applicants. 
+
+![Racial composition of rent relief program applicants in Richmond](/race.png)
+
+For those unable to pay rent after April 1, Traylor said the Rent Program provides a mediation for landlords and tenants to come up with an update of each other's situation and set up possible payment plans. 
+
 ## Data Diary
 ### Data Source
 In this project, I'm using **two sources of data**.
