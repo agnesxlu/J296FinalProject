@@ -65,6 +65,8 @@ The data given by the Rent Program only pertains to July 2020 to February 2022. 
 But according to my article, especially my data visualization, I need to focus on the numbers of total filings and nonpayment of rent. So I put these two variables in a seperate tab like this. 
 ![data cleaning 2](/dataclean2.png)
 #### Dataset 2: Rent Relief Program application data
+This is similar situation of the my first dataset. I had to manually put all the data from the dashboard into my googlesheet. It looks like this for the racial percentage, which is the data visualization chart I made. 
+![data cleaning 3](/dataclean3.png)
 
 ### Data Analysis - Questions and Answers
 #### 1. 
@@ -72,5 +74,3 @@ But according to my article, especially my data visualization, I need to focus o
 #### 3. 
 #### 4.
 #### 5.
-
-### Data Visualization
