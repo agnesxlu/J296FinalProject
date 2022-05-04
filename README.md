@@ -85,3 +85,8 @@ The analysis is in the article, but what I need for this part is a line chart, c
 * Sort from Z to A. 
 * It shows that up to about 66% of the people have an AMI no more than 30%, which means they have extremely low income. And the second largest group is AMI > 30% - 50%, which represents people with very low income. 
 #### 5. What is 
+
+### Data Visualization - links
+I used Flourish to make the two charts for my story. 
+1. line chart link: https://public.flourish.studio/visualisation/9784139/
+2. Bar chart link: https://public.flourish.studio/visualisation/9786524/
