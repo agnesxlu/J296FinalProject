@@ -65,12 +65,23 @@ The data given by the Rent Program only pertains to July 2020 to February 2022. 
 But according to my article, especially my data visualization, I need to focus on the numbers of total filings and nonpayment of rent. So I put these two variables in a seperate tab like this. 
 ![data cleaning 2](/dataclean2.png)
 #### Dataset 2: Rent Relief Program application data
-This is similar situation of the my first dataset. I had to manually put all the data from the dashboard into my googlesheet. It looks like this for the racial percentage, which is the data visualization chart I made. 
+This is a similar situation of my first dataset. I had to manually put all the data from the dashboard into my googlesheet. It looks like this for the racial percentage, which is the data visualization chart I made. 
 ![data cleaning 3](/dataclean3.png)
 
 ### Data Analysis - Questions and Answers
-#### 1. 
-#### 2. 
-#### 3. 
-#### 4.
-#### 5.
+#### 1. What is general trend of the total eviction filing numbers (by month) and numbers of filings whose cause is nonpayment of rent (by month)? 
+The analysis is in the article, but what I need for this part is a line chart, consist of two lines. One line displays the trend of the numbers of the total filings and the other line shows the trend of the filings whose cause if non-payment of rent. This question can be answered through the data visualization hence I did not use any formula or pivot tables to analyze it. 
+#### 2. Is nonpayment of rent actually the most frequent cause for most of the months?
+* Freeze and bold the first row and the first column in second tab "nonpayment of rent" (which is the nonpaymentofrent.csv file).
+* In cell B4, use fomnula =B3/B2 and change the number format into %.
+* autofill the rest of the row. 
+* For most of the months since July 2020, the percentage of the evictin filing cause of nonpayment of rent is higher than 50%, except for six months when the moratorium was in effect. 
+#### 3. What is the percentage of different races for all the applicants for rent relief in Richmond?
+* Freeze and bold the first row in the third tab "race" (which is the race.csv file).
+* Sort from Z to A. 
+* It shows that "Black or African Americans" takes up the biggest ratio, up to 43.6%.
+#### 4. What is the percentage of different AMI (average median income) for all the applicants for rent relief in Richmond?
+* Freeze and bold the first row.
+* Sort from Z to A. 
+* It shows that up to about 66% of the people have an AMI no more than 30%, which means they have extremely low income. And the second largest group is AMI > 30% - 50%, which represents people with very low income. 
+#### 5. 
