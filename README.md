@@ -83,11 +83,11 @@ The analysis is in the article, but what I need for this part is a line chart, c
 * Sort from Z to A. 
 * It shows that "Black or African Americans" takes up the biggest ratio, up to 43.6%.
 #### 4. What is the percentage of different AMI (average median income) for all the applicants for rent relief in Richmond?
-* Freeze and bold the first row.
+* Freeze and bold the first row in the fourth tab ÄMI" ((which is the AMI.csv file).
 * Sort from Z to A. 
 * It shows that up to about 66% of the people have an AMI no more than 30%, which means they have extremely low income. And the second largest group is AMI > 30% - 50%, which represents people with very low income. 
 #### 5. What age group submitted the most applications for rent relief in Richmond? 
-* Freeze and bold the first row.
+* Freeze and bold the first row in the fifth tab "age" (which is the age.csv file).
 * Sort from Z to A. 
 * It shows that people aged 31 to 40 filed the most applications, accouting for about 30.6% of total applications. Age group 41 - 50 came second, taking up 21.31%. 
 
