@@ -29,6 +29,8 @@ In Richmond, a city only 20% Black, the pandemic has made it particularly hard f
 
 ![Racial composition of rent relief program applicants in Richmond](/race.png)
 
+In addition, according to the statistics offered on the dashboard of Housing Is Key, most applicants have low income and more than half of the applicants are middle-aged, from 31 to 50. 
+
 For those unable to pay rent after April 1, Traylor said the Rent Program provides a mediation for landlords and tenants to come up with an update of each other's situation and set up possible payment plans. 
 
 But the end of rent relief does not mean the end of all sources of financial assistance. 
@@ -65,7 +67,7 @@ The data given by the Rent Program only pertains to July 2020 to February 2022. 
 But according to my article, especially my data visualization, I need to focus on the numbers of total filings and nonpayment of rent. So I put these two variables in a seperate tab like this. 
 ![data cleaning 2](/dataclean2.png)
 #### Dataset 2: Rent Relief Program application data
-This is a similar situation of my first dataset. I had to manually put all the data from the dashboard into my googlesheet. It looks like this for the racial percentage, which is the data visualization chart I made. 
+This is a similar situation of my first dataset. I had to manually put all the data from the dashboard into my googlesheet. It looks like this for the racial percentage, which is the data visualization chart I made. I also included AMI and age group. 
 ![data cleaning 3](/dataclean3.png)
 
 ### Data Analysis - Questions and Answers
@@ -84,7 +86,10 @@ The analysis is in the article, but what I need for this part is a line chart, c
 * Freeze and bold the first row.
 * Sort from Z to A. 
 * It shows that up to about 66% of the people have an AMI no more than 30%, which means they have extremely low income. And the second largest group is AMI > 30% - 50%, which represents people with very low income. 
-#### 5. What is 
+#### 5. What age group submitted the most applications for rent relief in Richmond? 
+* Freeze and bold the first row.
+* Sort from Z to A. 
+* It shows that people aged 31 to 40 filed the most applications, accouting for about 30.6% of total applications. Age group 41 - 50 came second, taking up 21.31%. 
 
 ### Data Visualization - links
 I used Flourish to make the two charts for my story. 
