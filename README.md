@@ -61,7 +61,9 @@ This part of data was collected from the [California Rent Relief Program Dashboa
 Above are the original formats of the two datasets, therefore I manually put the numbers I need into a google spreadsheet. 
 #### Dataset 1: monthly eviction data
 The data given by the Rent Program only pertains to July 2020 to February 2022. The data was given in a large image-based pdf file. So I need to manually put the numbers I need into my google spreadsheet like this. 
-
+![data cleaning 1](/dataclean1.png)
+But according to my article, especially my data visualization, I need to focus on the numbers of total filings and nonpayment of rent. So I put these two variables in a seperate tab like this. 
+![data cleaning 2](/dataclean2.png)
 #### Dataset 2: Rent Relief Program application data
 
 ### Data Analysis - Questions and Answers
