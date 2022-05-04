@@ -9,7 +9,7 @@ The eviction moratorium in California, which was designed to protect renters who
 
 For those who have applied for it and received funds, the rent relief is a life-changer. Charlene Cornelious, a long-time Richmond resident, is one of them.
 
-As someone who has been struggling with the Crohn’s disease, she was unable to work and her only source of income is $368 per month from California’s State Disability Insurance program, less than half of her monthly rent of $960. 
+As someone who has been struggling with the Crohn’s disease, she was unable to work and her only source of income was $368 per month from California’s State Disability Insurance program, less than half of her monthly rent of $960. 
 
 Cornelious submitted her application last August and received the approval at the beginning of last October. But the approval was only the start of a five-month wait for the money to actually arrive.
 
